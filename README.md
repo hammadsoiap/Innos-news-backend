@@ -19,8 +19,8 @@ This is a RESTful API application that aggregates data from multiple news source
 - Update AuthApiKeys From News sources KEY ENV value
 - Update database credentials or you can use Mysql
 - news source website url for api keys
-    `https://bonobo.capi.gutools.co.uk/register/developer
-    https://developer.nytimes.com/`
+    `https://bonobo.capi.gutools.co.uk/register/developer`
+    `https://developer.nytimes.com/`
 
 ## Setup Methods Running with Docker
 
