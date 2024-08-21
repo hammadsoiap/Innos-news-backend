@@ -59,5 +59,8 @@ To interact with the API, import the provided "News API Postman collection" into
 - base_url: Base URL of the API (e.g., http://localhost:8081/api)
 - authToken: Token for authentication (set automatically after login)
 - Ensure that the authToken is set in the environment variables in Postman for authenticated requests.
+
+  Frontend repo link
+  - https://github.com/hammadsoiap/innos-news-frontend
   
  
