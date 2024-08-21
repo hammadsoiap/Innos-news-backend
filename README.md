@@ -24,7 +24,7 @@ This is a RESTful API application that aggregates data from multiple news source
 
 ## Setup Methods Running with Docker
 
-#### Using Docker Compose for run project first time####
+#### Using Docker Compose for run project first time ####
 
 `docker-compose up --build --force-recreate`
 
