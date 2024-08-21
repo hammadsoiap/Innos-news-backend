@@ -36,6 +36,12 @@ Start the Docker containers:
 ## Manual Setup Required
 Update the database configuration in the .env file according to your local machine settings.
 
+Navigate to running container you can use
+- `docker ps`
+- copy docker container id and and open shell using `docker exec -it containerid0 sh`
+- ![image](https://github.com/user-attachments/assets/245d079d-f078-47f4-8d9d-eb87b63581dc)
+
+
 Install dependencies:
 - `composer install`
 
