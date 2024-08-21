@@ -42,8 +42,6 @@ Install dependencies:
 Generate Key
 Run `php artisan key:generate`
 
-## Post Setup
-
 Run database migrations: 
 - `php artisan migrate`
   
