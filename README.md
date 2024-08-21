@@ -56,7 +56,7 @@ Run database migrations:
 To interact with the API, import the provided "News API Postman collection" into your Postman application.
 
 ## Note for Postman
-- base_url: Base URL of the API (e.g., http://localhost/api)
+- base_url: Base URL of the API (e.g., http://localhost:8081/api)
 - authToken: Token for authentication (set automatically after login)
 - Ensure that the authToken is set in the environment variables in Postman for authenticated requests.
   
